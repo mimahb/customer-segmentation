@@ -72,3 +72,11 @@ Customers are grouped based on spending habits.
 PCA helps in visualizing clusters effectively.
 
 Businesses can target different segments for personalized marketing.
+
+### Future Improvements
+
+Try different clustering techniques (DBSCAN, Hierarchical Clustering).
+
+Apply deeper customer analysis using demographic data.
+
+Build a simple dashboard for interactive analysis.
